@@ -1,4 +1,5 @@
-tom_http_header
+#!/usr/bin/env bash
+#custom_http_header
 sudo apt update -y
 sudo apt install nginx -y
 host_name="$HOSTNAME"
